@@ -1,7 +1,7 @@
 # Cafeteria Management System
 > Developed by Prathamesh Relekar
 
-![Cafeteria Management System](https://ibb.co/1fRmpCKt)
+![Cafeteria Management System](https://postimg.cc/TpFnwYWr)
 
 This project helps to manage a single point cafeteria system. 
 The features of this system are:
