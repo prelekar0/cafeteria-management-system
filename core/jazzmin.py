@@ -13,7 +13,7 @@ JAZZMIN_SETTINGS = {
     "welcome_sign": "Welcome to the Cafeteria Admin",
 
     # Copyright on the footer
-    "copyright": "Arjun Adhikari",
+    "copyright": "Prathamesh Relekar",
 
     # Field name on user model that contains avatar image
     "user_avatar": None,

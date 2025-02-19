@@ -6,7 +6,7 @@
     "python.linting.flake8Path": ".venv/bin/flake8",
     "python.formatting.yapfPath": ".venv/bin/yapf",
     "editor.codeActionsOnSave": {
-        "source.organizeImports": true
+        "source.organizeImports": "explicit"
     },
     "python.linting.flake8Args": [
         "--config=.flake8",
