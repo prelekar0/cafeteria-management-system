@@ -1,5 +1,5 @@
 # Cafeteria Management System
-> Developed by Arjun Adhikari
+> Developed by Prathamesh Relekar
 
 ![Cafeteria Management System](https://i.ibb.co/s30DcmB/cafems.png)
 
